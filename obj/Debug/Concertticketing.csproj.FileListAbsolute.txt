@@ -1,0 +1,1151 @@
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\registration.mdf
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\registration_log.ldf
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\mongocrypt.dll
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\Concertticketing.exe.config
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\Concertticketing.exe
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\Concertticketing.pdb
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\AWSSDK.Core.dll
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\DnsClient.dll
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\Guna.UI.dll
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\Guna.UI2.dll
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\MongoDB.Bson.dll
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\MongoDB.Driver.dll
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\SharpCompress.dll
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\Snappier.dll
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\System.Buffers.dll
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\System.Memory.dll
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\ZstdSharp.dll
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\AWSSDK.Core.xml
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\DnsClient.xml
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\MongoDB.Bson.xml
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\MongoDB.Driver.xml
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\Snappier.xml
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\System.Buffers.xml
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\System.Memory.xml
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Windows 10\Desktop\concert\Concertticketing\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Windows 10\Desktop\concert\Concertticketing\obj\Debug\Concertticketing.Admin.resources
+C:\Users\Windows 10\Desktop\concert\Concertticketing\obj\Debug\Concertticketing.Form1.resources
+C:\Users\Windows 10\Desktop\concert\Concertticketing\obj\Debug\Concertticketing.LandingPage.resources
+C:\Users\Windows 10\Desktop\concert\Concertticketing\obj\Debug\Concertticketing.Login.resources
+C:\Users\Windows 10\Desktop\concert\Concertticketing\obj\Debug\Concertticketing.Properties.Resources.resources
+C:\Users\Windows 10\Desktop\concert\Concertticketing\obj\Debug\Concertticketing.register.resources
+C:\Users\Windows 10\Desktop\concert\Concertticketing\obj\Debug\Concertticketing.UCDashboard.resources
+C:\Users\Windows 10\Desktop\concert\Concertticketing\obj\Debug\Concertticketing.UCData.resources
+C:\Users\Windows 10\Desktop\concert\Concertticketing\obj\Debug\Concertticketing.UCTickets.resources
+C:\Users\Windows 10\Desktop\concert\Concertticketing\obj\Debug\Concertticketing.csproj.GenerateResource.cache
+C:\Users\Windows 10\Desktop\concert\Concertticketing\obj\Debug\Concertticketing.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\concert\Concertticketing\obj\Debug\Concertticketing.csproj.CopyComplete
+C:\Users\Windows 10\Desktop\concert\Concertticketing\obj\Debug\Concertticketing.exe
+C:\Users\Windows 10\Desktop\concert\Concertticketing\obj\Debug\Concertticketing.pdb
+C:\Users\Windows 10\Desktop\concert\Concertticketing\obj\Debug\Concertticketing.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\registration.mdf
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\registration_log.ldf
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\mongocrypt.dll
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\Concertticketing.exe.config
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\Concertticketing.exe
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\Concertticketing.pdb
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\AWSSDK.Core.dll
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\DnsClient.dll
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\Guna.UI.dll
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\Guna.UI2.dll
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\MongoDB.Bson.dll
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\MongoDB.Driver.dll
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\SharpCompress.dll
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\Snappier.dll
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\System.Buffers.dll
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\System.Memory.dll
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\ZstdSharp.dll
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\AWSSDK.Core.xml
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\DnsClient.xml
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\MongoDB.Bson.xml
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\MongoDB.Driver.xml
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\Snappier.xml
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\System.Buffers.xml
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\System.Memory.xml
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\obj\Debug\Concertticketing.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\obj\Debug\Concertticketing.Admin.resources
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\obj\Debug\Concertticketing.Form1.resources
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\obj\Debug\Concertticketing.LandingPage.resources
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\obj\Debug\Concertticketing.Login.resources
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\obj\Debug\Concertticketing.Properties.Resources.resources
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\obj\Debug\Concertticketing.register.resources
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\obj\Debug\Concertticketing.UCDashboard.resources
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\obj\Debug\Concertticketing.UCData.resources
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\obj\Debug\Concertticketing.UCTickets.resources
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\obj\Debug\Concertticketing.csproj.GenerateResource.cache
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\obj\Debug\Concertticketing.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\obj\Debug\Concertticketing.csproj.CopyComplete
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\obj\Debug\Concertticketing.exe
+C:\Users\Windows 10\Desktop\concert - Copy\Concertticketing\obj\Debug\Concertticketing.pdb
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\mongocrypt.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\Concertticketing.exe.config
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\Concertticketing.exe
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\Concertticketing.pdb
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\AWSSDK.Core.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\DnsClient.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\Guna.UI.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\Guna.UI2.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\MongoDB.Bson.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\MongoDB.Driver.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\SharpCompress.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\Snappier.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\System.Buffers.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\System.Memory.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\ZstdSharp.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\AWSSDK.Core.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\DnsClient.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\MongoDB.Bson.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\MongoDB.Driver.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\Snappier.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\System.Buffers.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\System.Memory.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\obj\Debug\Concertticketing.Admin.resources
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\obj\Debug\Concertticketing.Form1.resources
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\obj\Debug\Concertticketing.Login.resources
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\obj\Debug\Concertticketing.Properties.Resources.resources
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\obj\Debug\Concertticketing.register.resources
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\obj\Debug\Concertticketing.csproj.GenerateResource.cache
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\obj\Debug\Concertticketing.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\obj\Debug\Concertticketing.csproj.CopyComplete
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\obj\Debug\Concertticketing.exe
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing\obj\Debug\Concertticketing.pdb
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\mongocrypt.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\Concertticketing.exe.config
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\Concertticketing.exe
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\Concertticketing.pdb
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\AWSSDK.Core.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\DnsClient.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\Guna.UI.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\Guna.UI2.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\MongoDB.Bson.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\MongoDB.Driver.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\SharpCompress.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\Snappier.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\System.Buffers.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\System.Memory.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\ZstdSharp.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\AWSSDK.Core.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\DnsClient.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\MongoDB.Bson.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\MongoDB.Driver.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\Snappier.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\System.Buffers.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\System.Memory.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\obj\Debug\Concertticketing.exe.config
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\obj\Debug\Concertticketing.Form1.resources
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\obj\Debug\Concertticketing.Login.resources
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\obj\Debug\Concertticketing.Properties.Resources.resources
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\obj\Debug\Concertticketing.register.resources
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\obj\Debug\Concertticketing.UserData.resources
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\obj\Debug\Concertticketing.csproj.GenerateResource.cache
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\obj\Debug\Concertticketing.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\obj\Debug\Concertticketing.csproj.CopyComplete
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\obj\Debug\Concertticketing.exe
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\obj\Debug\Concertticketing.pdb
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy\obj\Debug\Concertticketing.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\mongocrypt.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\Concertticketing.exe.config
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\Concertticketing.exe
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\Concertticketing.pdb
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\AWSSDK.Core.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\DnsClient.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\Guna.UI.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\Guna.UI2.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\MongoDB.Bson.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\MongoDB.Driver.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\SharpCompress.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\Snappier.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\System.Buffers.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\System.Memory.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\ZstdSharp.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\AWSSDK.Core.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\DnsClient.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\MongoDB.Bson.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\MongoDB.Driver.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\Snappier.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\System.Buffers.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\System.Memory.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\obj\Debug\Concertticketing.exe.config
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\obj\Debug\Concertticketing.Form1.resources
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\obj\Debug\Concertticketing.Login.resources
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\obj\Debug\Concertticketing.register.resources
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\obj\Debug\Concertticketing.Tickets.resources
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\obj\Debug\Concertticketing.UserData.resources
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\obj\Debug\Concertticketing.csproj.GenerateResource.cache
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\obj\Debug\Concertticketing.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\obj\Debug\Concertticketing.csproj.CopyComplete
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\obj\Debug\Concertticketing.exe
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\obj\Debug\Concertticketing.pdb
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy\obj\Debug\Concertticketing.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\mongocrypt.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\Concertticketing.exe.config
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\Concertticketing.exe
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\Concertticketing.pdb
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\AWSSDK.Core.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\DnsClient.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\Guna.UI.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\Guna.UI2.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\MongoDB.Bson.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\MongoDB.Driver.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\SharpCompress.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\Snappier.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Buffers.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Memory.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\ZstdSharp.dll
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\AWSSDK.Core.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\DnsClient.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\MongoDB.Bson.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\MongoDB.Driver.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\Snappier.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Buffers.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Memory.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\obj\Debug\Concertticketing.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\obj\Debug\Concertticketing.exe.config
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\obj\Debug\Concertticketing.Form1.resources
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\obj\Debug\Concertticketing.Login.resources
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\obj\Debug\Concertticketing.register.resources
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\obj\Debug\Concertticketing.Tickets.resources
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\obj\Debug\Concertticketing.UserControl1.resources
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\obj\Debug\Concertticketing.UserData.resources
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\obj\Debug\Concertticketing.csproj.GenerateResource.cache
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\obj\Debug\Concertticketing.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\obj\Debug\Concertticketing.csproj.CopyComplete
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\obj\Debug\Concertticketing.exe
+C:\Users\Windows 10\Desktop\concert - Copy - Copy\Concertticketing - Copy - Copy - Copy (2)\obj\Debug\Concertticketing.pdb
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\mongocrypt.dll
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\Concertticketing.exe.config
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\Concertticketing.exe
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\Concertticketing.pdb
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\AWSSDK.Core.dll
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\AWSSDK.SecurityToken.dll
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\DnsClient.dll
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\Guna.UI2.dll
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\Microsoft.Win32.Registry.dll
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\MongoDB.Bson.dll
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\MongoDB.Driver.Core.dll
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\MongoDB.Driver.dll
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\MongoDB.Libmongocrypt.dll
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\SharpCompress.dll
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\Snappier.dll
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Buffers.dll
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Data.SqlClient.dll
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Memory.dll
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Numerics.Vectors.dll
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Security.AccessControl.dll
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Security.Principal.Windows.dll
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\ZstdSharp.dll
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\AWSSDK.Core.pdb
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\AWSSDK.Core.xml
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\AWSSDK.SecurityToken.pdb
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\AWSSDK.SecurityToken.xml
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\DnsClient.xml
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\MongoDB.Bson.xml
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\MongoDB.Driver.xml
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\MongoDB.Driver.Core.xml
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\Snappier.xml
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Buffers.xml
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Data.SqlClient.xml
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Memory.xml
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Numerics.Vectors.xml
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Security.AccessControl.xml
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Security.Principal.Windows.xml
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Concertticketing - Copy - Copy - Copy (2)\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Concertticketing - Copy - Copy - Copy (2)\obj\Debug\Concertticketing.csproj.AssemblyReference.cache
+E:\Concertticketing - Copy - Copy - Copy (2)\obj\Debug\Concertticketing.exe.config
+E:\Concertticketing - Copy - Copy - Copy (2)\obj\Debug\Concertticketing.Form1.resources
+E:\Concertticketing - Copy - Copy - Copy (2)\obj\Debug\Concertticketing.Login.resources
+E:\Concertticketing - Copy - Copy - Copy (2)\obj\Debug\Concertticketing.register.resources
+E:\Concertticketing - Copy - Copy - Copy (2)\obj\Debug\Concertticketing.Tickets.resources
+E:\Concertticketing - Copy - Copy - Copy (2)\obj\Debug\Concertticketing.UserControl1.resources
+E:\Concertticketing - Copy - Copy - Copy (2)\obj\Debug\Concertticketing.UserData.resources
+E:\Concertticketing - Copy - Copy - Copy (2)\obj\Debug\Concertticketing.csproj.GenerateResource.cache
+E:\Concertticketing - Copy - Copy - Copy (2)\obj\Debug\Concertticketing.csproj.CoreCompileInputs.cache
+E:\Concertticketing - Copy - Copy - Copy (2)\obj\Debug\Concertticketing.csproj.CopyComplete
+E:\Concertticketing - Copy - Copy - Copy (2)\obj\Debug\Concertticketing.exe
+E:\Concertticketing - Copy - Copy - Copy (2)\obj\Debug\Concertticketing.pdb
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\mongocrypt.dll
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\Concertticketing.exe.config
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\Concertticketing.exe
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\Concertticketing.pdb
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\AWSSDK.Core.dll
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\DnsClient.dll
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\Guna.UI2.dll
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\MongoDB.Bson.dll
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\MongoDB.Driver.dll
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\SharpCompress.dll
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\Snappier.dll
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\System.Buffers.dll
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\System.Memory.dll
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\ZstdSharp.dll
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\AWSSDK.Core.xml
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\DnsClient.xml
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\MongoDB.Bson.xml
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\MongoDB.Driver.xml
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\Snappier.xml
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\System.Buffers.xml
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\System.Memory.xml
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Windows 10\Desktop\Concertticketing\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Windows 10\Desktop\Concertticketing\obj\Debug\Concertticketing.exe.config
+C:\Users\Windows 10\Desktop\Concertticketing\obj\Debug\Concertticketing.Form1.resources
+C:\Users\Windows 10\Desktop\Concertticketing\obj\Debug\Concertticketing.Login.resources
+C:\Users\Windows 10\Desktop\Concertticketing\obj\Debug\Concertticketing.register.resources
+C:\Users\Windows 10\Desktop\Concertticketing\obj\Debug\Concertticketing.Tickets.resources
+C:\Users\Windows 10\Desktop\Concertticketing\obj\Debug\Concertticketing.UserData.resources
+C:\Users\Windows 10\Desktop\Concertticketing\obj\Debug\Concertticketing.csproj.GenerateResource.cache
+C:\Users\Windows 10\Desktop\Concertticketing\obj\Debug\Concertticketing.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Concertticketing\obj\Debug\Concertticketing.csproj.CopyComplete
+C:\Users\Windows 10\Desktop\Concertticketing\obj\Debug\Concertticketing.exe
+C:\Users\Windows 10\Desktop\Concertticketing\obj\Debug\Concertticketing.pdb
+C:\Users\Windows 10\Desktop\Concertticketing\obj\Debug\Concertticketing.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\mongocrypt.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\Concertticketing.exe.config
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\Concertticketing.exe
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\Concertticketing.pdb
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\AWSSDK.Core.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\DnsClient.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\Guna.UI2.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\MongoDB.Bson.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\MongoDB.Driver.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\SharpCompress.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\Snappier.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\System.Buffers.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\System.Memory.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\ZstdSharp.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\AWSSDK.Core.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\DnsClient.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\MongoDB.Bson.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\MongoDB.Driver.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\Snappier.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\System.Buffers.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\System.Memory.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\obj\Debug\Concertticketing.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\obj\Debug\Concertticketing.exe.config
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\obj\Debug\Concertticketing.Cashier.resources
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\obj\Debug\Concertticketing.Form1.resources
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\obj\Debug\Concertticketing.Login.resources
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\obj\Debug\Concertticketing.register.resources
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\obj\Debug\Concertticketing.Tickets.resources
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\obj\Debug\Concertticketing.UserData.resources
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\obj\Debug\Concertticketing.csproj.GenerateResource.cache
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\obj\Debug\Concertticketing.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\obj\Debug\Concertticketing.csproj.CopyComplete
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\obj\Debug\Concertticketing.exe
+C:\Users\Windows 10\Desktop\Concertticketing - Copy\obj\Debug\Concertticketing.pdb
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\mongocrypt.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\Concertticketing.exe.config
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\Concertticketing.exe
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\Concertticketing.pdb
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\AWSSDK.Core.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\DnsClient.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\Guna.UI2.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\MongoDB.Bson.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\MongoDB.Driver.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\SharpCompress.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\Snappier.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\System.Buffers.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\System.Memory.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\ZstdSharp.dll
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\AWSSDK.Core.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\DnsClient.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\MongoDB.Bson.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\MongoDB.Driver.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\Snappier.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\System.Buffers.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\System.Memory.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\obj\Debug\Concertticketing.exe.config
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\obj\Debug\Concertticketing.Cashier.resources
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\obj\Debug\Concertticketing.Form1.resources
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\obj\Debug\Concertticketing.Login.resources
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\obj\Debug\Concertticketing.register.resources
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\obj\Debug\Concertticketing.Tickets.resources
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\obj\Debug\Concertticketing.UserData.resources
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\obj\Debug\Concertticketing.csproj.GenerateResource.cache
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\obj\Debug\Concertticketing.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\obj\Debug\Concertticketing.csproj.CopyComplete
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\obj\Debug\Concertticketing.exe
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\obj\Debug\Concertticketing.pdb
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\obj\Debug\Concertticketing.Properties.Resources.resources
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\obj\Debug\Concertticketing.resibo.resources
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\obj\Debug\Concertticketing.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\obj\Debug\Concertticketing.records.resources
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\obj\Debug\Concertticketing.deleteuser.resources
+C:\Users\Windows 10\Desktop\Concertticketing - Copy - Copy\obj\Debug\Concertticketing.seatplan.resources
+C:\Users\Windows 10\Desktop\Concertticketing\obj\Debug\Concertticketing.Cashier.resources
+C:\Users\Windows 10\Desktop\Concertticketing\obj\Debug\Concertticketing.deleteuser.resources
+C:\Users\Windows 10\Desktop\Concertticketing\obj\Debug\Concertticketing.Properties.Resources.resources
+C:\Users\Windows 10\Desktop\Concertticketing\obj\Debug\Concertticketing.records.resources
+C:\Users\Windows 10\Desktop\Concertticketing\obj\Debug\Concertticketing.resibo.resources
+C:\Users\Windows 10\Desktop\Concertticketing\obj\Debug\Concertticketing.seatplan.resources
+E:\COpy\Concertticketing\bin\Debug\mongocrypt.dll
+E:\COpy\Concertticketing\bin\Debug\Concertticketing.exe.config
+E:\COpy\Concertticketing\bin\Debug\Concertticketing.exe
+E:\COpy\Concertticketing\bin\Debug\Concertticketing.pdb
+E:\COpy\Concertticketing\bin\Debug\AWSSDK.Core.dll
+E:\COpy\Concertticketing\bin\Debug\AWSSDK.SecurityToken.dll
+E:\COpy\Concertticketing\bin\Debug\DnsClient.dll
+E:\COpy\Concertticketing\bin\Debug\Guna.UI2.dll
+E:\COpy\Concertticketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\COpy\Concertticketing\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\COpy\Concertticketing\bin\Debug\Microsoft.Win32.Registry.dll
+E:\COpy\Concertticketing\bin\Debug\MongoDB.Bson.dll
+E:\COpy\Concertticketing\bin\Debug\MongoDB.Driver.Core.dll
+E:\COpy\Concertticketing\bin\Debug\MongoDB.Driver.dll
+E:\COpy\Concertticketing\bin\Debug\MongoDB.Libmongocrypt.dll
+E:\COpy\Concertticketing\bin\Debug\SharpCompress.dll
+E:\COpy\Concertticketing\bin\Debug\Snappier.dll
+E:\COpy\Concertticketing\bin\Debug\System.Buffers.dll
+E:\COpy\Concertticketing\bin\Debug\System.Data.SqlClient.dll
+E:\COpy\Concertticketing\bin\Debug\System.Memory.dll
+E:\COpy\Concertticketing\bin\Debug\System.Numerics.Vectors.dll
+E:\COpy\Concertticketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\COpy\Concertticketing\bin\Debug\System.Security.AccessControl.dll
+E:\COpy\Concertticketing\bin\Debug\System.Security.Principal.Windows.dll
+E:\COpy\Concertticketing\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\COpy\Concertticketing\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\COpy\Concertticketing\bin\Debug\ZstdSharp.dll
+E:\COpy\Concertticketing\bin\Debug\AWSSDK.Core.pdb
+E:\COpy\Concertticketing\bin\Debug\AWSSDK.Core.xml
+E:\COpy\Concertticketing\bin\Debug\AWSSDK.SecurityToken.pdb
+E:\COpy\Concertticketing\bin\Debug\AWSSDK.SecurityToken.xml
+E:\COpy\Concertticketing\bin\Debug\DnsClient.xml
+E:\COpy\Concertticketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\COpy\Concertticketing\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\COpy\Concertticketing\bin\Debug\Microsoft.Win32.Registry.xml
+E:\COpy\Concertticketing\bin\Debug\MongoDB.Bson.xml
+E:\COpy\Concertticketing\bin\Debug\MongoDB.Driver.xml
+E:\COpy\Concertticketing\bin\Debug\MongoDB.Driver.Core.xml
+E:\COpy\Concertticketing\bin\Debug\Snappier.xml
+E:\COpy\Concertticketing\bin\Debug\System.Buffers.xml
+E:\COpy\Concertticketing\bin\Debug\System.Data.SqlClient.xml
+E:\COpy\Concertticketing\bin\Debug\System.Memory.xml
+E:\COpy\Concertticketing\bin\Debug\System.Numerics.Vectors.xml
+E:\COpy\Concertticketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\COpy\Concertticketing\bin\Debug\System.Security.AccessControl.xml
+E:\COpy\Concertticketing\bin\Debug\System.Security.Principal.Windows.xml
+E:\COpy\Concertticketing\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\COpy\Concertticketing\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\COpy\Concertticketing\obj\Debug\Concertticketing.csproj.AssemblyReference.cache
+E:\COpy\Concertticketing\obj\Debug\Concertticketing.exe.config
+E:\COpy\Concertticketing\obj\Debug\Concertticketing.Cashier.resources
+E:\COpy\Concertticketing\obj\Debug\Concertticketing.deleteuser.resources
+E:\COpy\Concertticketing\obj\Debug\Concertticketing.Properties.Resources.resources
+E:\COpy\Concertticketing\obj\Debug\Concertticketing.records.resources
+E:\COpy\Concertticketing\obj\Debug\Concertticketing.resibo.resources
+E:\COpy\Concertticketing\obj\Debug\Concertticketing.seatplan.resources
+E:\COpy\Concertticketing\obj\Debug\Concertticketing.Form1.resources
+E:\COpy\Concertticketing\obj\Debug\Concertticketing.Login.resources
+E:\COpy\Concertticketing\obj\Debug\Concertticketing.register.resources
+E:\COpy\Concertticketing\obj\Debug\Concertticketing.Tickets.resources
+E:\COpy\Concertticketing\obj\Debug\Concertticketing.UserData.resources
+E:\COpy\Concertticketing\obj\Debug\Concertticketing.csproj.GenerateResource.cache
+E:\COpy\Concertticketing\obj\Debug\Concertticketing.csproj.CoreCompileInputs.cache
+E:\COpy\Concertticketing\obj\Debug\Concertticketing.csproj.CopyComplete
+E:\COpy\Concertticketing\obj\Debug\Concertticketing.exe
+E:\COpy\Concertticketing\obj\Debug\Concertticketing.pdb
+D:\COpy\Concertticketing\bin\Debug\mongocrypt.dll
+D:\COpy\Concertticketing\bin\Debug\Concertticketing.exe.config
+D:\COpy\Concertticketing\bin\Debug\Concertticketing.exe
+D:\COpy\Concertticketing\bin\Debug\Concertticketing.pdb
+D:\COpy\Concertticketing\bin\Debug\AWSSDK.Core.dll
+D:\COpy\Concertticketing\bin\Debug\AWSSDK.SecurityToken.dll
+D:\COpy\Concertticketing\bin\Debug\DnsClient.dll
+D:\COpy\Concertticketing\bin\Debug\Guna.UI2.dll
+D:\COpy\Concertticketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\COpy\Concertticketing\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\COpy\Concertticketing\bin\Debug\Microsoft.Win32.Registry.dll
+D:\COpy\Concertticketing\bin\Debug\MongoDB.Bson.dll
+D:\COpy\Concertticketing\bin\Debug\MongoDB.Driver.Core.dll
+D:\COpy\Concertticketing\bin\Debug\MongoDB.Driver.dll
+D:\COpy\Concertticketing\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\COpy\Concertticketing\bin\Debug\SharpCompress.dll
+D:\COpy\Concertticketing\bin\Debug\Snappier.dll
+D:\COpy\Concertticketing\bin\Debug\System.Buffers.dll
+D:\COpy\Concertticketing\bin\Debug\System.Data.SqlClient.dll
+D:\COpy\Concertticketing\bin\Debug\System.Memory.dll
+D:\COpy\Concertticketing\bin\Debug\System.Numerics.Vectors.dll
+D:\COpy\Concertticketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\COpy\Concertticketing\bin\Debug\System.Security.AccessControl.dll
+D:\COpy\Concertticketing\bin\Debug\System.Security.Principal.Windows.dll
+D:\COpy\Concertticketing\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\COpy\Concertticketing\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\COpy\Concertticketing\bin\Debug\ZstdSharp.dll
+D:\COpy\Concertticketing\bin\Debug\AWSSDK.Core.pdb
+D:\COpy\Concertticketing\bin\Debug\AWSSDK.Core.xml
+D:\COpy\Concertticketing\bin\Debug\AWSSDK.SecurityToken.pdb
+D:\COpy\Concertticketing\bin\Debug\AWSSDK.SecurityToken.xml
+D:\COpy\Concertticketing\bin\Debug\DnsClient.xml
+D:\COpy\Concertticketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\COpy\Concertticketing\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\COpy\Concertticketing\bin\Debug\Microsoft.Win32.Registry.xml
+D:\COpy\Concertticketing\bin\Debug\MongoDB.Bson.xml
+D:\COpy\Concertticketing\bin\Debug\MongoDB.Driver.xml
+D:\COpy\Concertticketing\bin\Debug\MongoDB.Driver.Core.xml
+D:\COpy\Concertticketing\bin\Debug\Snappier.xml
+D:\COpy\Concertticketing\bin\Debug\System.Buffers.xml
+D:\COpy\Concertticketing\bin\Debug\System.Data.SqlClient.xml
+D:\COpy\Concertticketing\bin\Debug\System.Memory.xml
+D:\COpy\Concertticketing\bin\Debug\System.Numerics.Vectors.xml
+D:\COpy\Concertticketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\COpy\Concertticketing\bin\Debug\System.Security.AccessControl.xml
+D:\COpy\Concertticketing\bin\Debug\System.Security.Principal.Windows.xml
+D:\COpy\Concertticketing\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\COpy\Concertticketing\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\COpy\Concertticketing\obj\Debug\Concertticketing.csproj.AssemblyReference.cache
+D:\COpy\Concertticketing\obj\Debug\Concertticketing.exe.config
+D:\COpy\Concertticketing\obj\Debug\Concertticketing.Cashier.resources
+D:\COpy\Concertticketing\obj\Debug\Concertticketing.Cashier2.resources
+D:\COpy\Concertticketing\obj\Debug\Concertticketing.deleteuser.resources
+D:\COpy\Concertticketing\obj\Debug\Concertticketing.Properties.Resources.resources
+D:\COpy\Concertticketing\obj\Debug\Concertticketing.records.resources
+D:\COpy\Concertticketing\obj\Debug\Concertticketing.resibo.resources
+D:\COpy\Concertticketing\obj\Debug\Concertticketing.seatplan.resources
+D:\COpy\Concertticketing\obj\Debug\Concertticketing.Form1.resources
+D:\COpy\Concertticketing\obj\Debug\Concertticketing.Login.resources
+D:\COpy\Concertticketing\obj\Debug\Concertticketing.register.resources
+D:\COpy\Concertticketing\obj\Debug\Concertticketing.Tickets.resources
+D:\COpy\Concertticketing\obj\Debug\Concertticketing.UserData.resources
+D:\COpy\Concertticketing\obj\Debug\Concertticketing.csproj.GenerateResource.cache
+D:\COpy\Concertticketing\obj\Debug\Concertticketing.csproj.CoreCompileInputs.cache
+D:\COpy\Concertticketing\obj\Debug\Concertticketing.csproj.CopyComplete
+D:\COpy\Concertticketing\obj\Debug\Concertticketing.exe
+D:\COpy\Concertticketing\obj\Debug\Concertticketing.pdb
+D:\COpy - Copy\Concertticketing\bin\Debug\mongocrypt.dll
+D:\COpy - Copy\Concertticketing\bin\Debug\Concertticketing.exe.config
+D:\COpy - Copy\Concertticketing\bin\Debug\Concertticketing.exe
+D:\COpy - Copy\Concertticketing\bin\Debug\Concertticketing.pdb
+D:\COpy - Copy\Concertticketing\bin\Debug\AWSSDK.Core.dll
+D:\COpy - Copy\Concertticketing\bin\Debug\AWSSDK.SecurityToken.dll
+D:\COpy - Copy\Concertticketing\bin\Debug\DnsClient.dll
+D:\COpy - Copy\Concertticketing\bin\Debug\Guna.UI2.dll
+D:\COpy - Copy\Concertticketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\COpy - Copy\Concertticketing\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\COpy - Copy\Concertticketing\bin\Debug\Microsoft.Win32.Registry.dll
+D:\COpy - Copy\Concertticketing\bin\Debug\MongoDB.Bson.dll
+D:\COpy - Copy\Concertticketing\bin\Debug\MongoDB.Driver.Core.dll
+D:\COpy - Copy\Concertticketing\bin\Debug\MongoDB.Driver.dll
+D:\COpy - Copy\Concertticketing\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\COpy - Copy\Concertticketing\bin\Debug\SharpCompress.dll
+D:\COpy - Copy\Concertticketing\bin\Debug\Snappier.dll
+D:\COpy - Copy\Concertticketing\bin\Debug\System.Buffers.dll
+D:\COpy - Copy\Concertticketing\bin\Debug\System.Data.SqlClient.dll
+D:\COpy - Copy\Concertticketing\bin\Debug\System.Memory.dll
+D:\COpy - Copy\Concertticketing\bin\Debug\System.Numerics.Vectors.dll
+D:\COpy - Copy\Concertticketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\COpy - Copy\Concertticketing\bin\Debug\System.Security.AccessControl.dll
+D:\COpy - Copy\Concertticketing\bin\Debug\System.Security.Principal.Windows.dll
+D:\COpy - Copy\Concertticketing\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\COpy - Copy\Concertticketing\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\COpy - Copy\Concertticketing\bin\Debug\ZstdSharp.dll
+D:\COpy - Copy\Concertticketing\bin\Debug\AWSSDK.Core.pdb
+D:\COpy - Copy\Concertticketing\bin\Debug\AWSSDK.Core.xml
+D:\COpy - Copy\Concertticketing\bin\Debug\AWSSDK.SecurityToken.pdb
+D:\COpy - Copy\Concertticketing\bin\Debug\AWSSDK.SecurityToken.xml
+D:\COpy - Copy\Concertticketing\bin\Debug\DnsClient.xml
+D:\COpy - Copy\Concertticketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\COpy - Copy\Concertticketing\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\COpy - Copy\Concertticketing\bin\Debug\Microsoft.Win32.Registry.xml
+D:\COpy - Copy\Concertticketing\bin\Debug\MongoDB.Bson.xml
+D:\COpy - Copy\Concertticketing\bin\Debug\MongoDB.Driver.xml
+D:\COpy - Copy\Concertticketing\bin\Debug\MongoDB.Driver.Core.xml
+D:\COpy - Copy\Concertticketing\bin\Debug\Snappier.xml
+D:\COpy - Copy\Concertticketing\bin\Debug\System.Buffers.xml
+D:\COpy - Copy\Concertticketing\bin\Debug\System.Data.SqlClient.xml
+D:\COpy - Copy\Concertticketing\bin\Debug\System.Memory.xml
+D:\COpy - Copy\Concertticketing\bin\Debug\System.Numerics.Vectors.xml
+D:\COpy - Copy\Concertticketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\COpy - Copy\Concertticketing\bin\Debug\System.Security.AccessControl.xml
+D:\COpy - Copy\Concertticketing\bin\Debug\System.Security.Principal.Windows.xml
+D:\COpy - Copy\Concertticketing\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\COpy - Copy\Concertticketing\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.csproj.AssemblyReference.cache
+D:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.exe.config
+D:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.Cashier.resources
+D:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.deleteuser.resources
+D:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.Properties.Resources.resources
+D:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.records.resources
+D:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.resibo.resources
+D:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.seatplan.resources
+D:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.Form1.resources
+D:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.Login.resources
+D:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.register.resources
+D:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.Tickets.resources
+D:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.UserData.resources
+D:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.csproj.GenerateResource.cache
+D:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.csproj.CoreCompileInputs.cache
+D:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.csproj.CopyComplete
+D:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.exe
+D:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.pdb
+E:\COpy - Copy\Concertticketing\bin\Debug\mongocrypt.dll
+E:\COpy - Copy\Concertticketing\bin\Debug\Concertticketing.exe.config
+E:\COpy - Copy\Concertticketing\bin\Debug\Concertticketing.exe
+E:\COpy - Copy\Concertticketing\bin\Debug\Concertticketing.pdb
+E:\COpy - Copy\Concertticketing\bin\Debug\AWSSDK.Core.dll
+E:\COpy - Copy\Concertticketing\bin\Debug\AWSSDK.SecurityToken.dll
+E:\COpy - Copy\Concertticketing\bin\Debug\DnsClient.dll
+E:\COpy - Copy\Concertticketing\bin\Debug\Guna.UI2.dll
+E:\COpy - Copy\Concertticketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\COpy - Copy\Concertticketing\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\COpy - Copy\Concertticketing\bin\Debug\Microsoft.Win32.Registry.dll
+E:\COpy - Copy\Concertticketing\bin\Debug\MongoDB.Bson.dll
+E:\COpy - Copy\Concertticketing\bin\Debug\MongoDB.Driver.Core.dll
+E:\COpy - Copy\Concertticketing\bin\Debug\MongoDB.Driver.dll
+E:\COpy - Copy\Concertticketing\bin\Debug\MongoDB.Libmongocrypt.dll
+E:\COpy - Copy\Concertticketing\bin\Debug\SharpCompress.dll
+E:\COpy - Copy\Concertticketing\bin\Debug\Snappier.dll
+E:\COpy - Copy\Concertticketing\bin\Debug\System.Buffers.dll
+E:\COpy - Copy\Concertticketing\bin\Debug\System.Data.SqlClient.dll
+E:\COpy - Copy\Concertticketing\bin\Debug\System.Memory.dll
+E:\COpy - Copy\Concertticketing\bin\Debug\System.Numerics.Vectors.dll
+E:\COpy - Copy\Concertticketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\COpy - Copy\Concertticketing\bin\Debug\System.Security.AccessControl.dll
+E:\COpy - Copy\Concertticketing\bin\Debug\System.Security.Principal.Windows.dll
+E:\COpy - Copy\Concertticketing\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\COpy - Copy\Concertticketing\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\COpy - Copy\Concertticketing\bin\Debug\ZstdSharp.dll
+E:\COpy - Copy\Concertticketing\bin\Debug\AWSSDK.Core.pdb
+E:\COpy - Copy\Concertticketing\bin\Debug\AWSSDK.Core.xml
+E:\COpy - Copy\Concertticketing\bin\Debug\AWSSDK.SecurityToken.pdb
+E:\COpy - Copy\Concertticketing\bin\Debug\AWSSDK.SecurityToken.xml
+E:\COpy - Copy\Concertticketing\bin\Debug\DnsClient.xml
+E:\COpy - Copy\Concertticketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\COpy - Copy\Concertticketing\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\COpy - Copy\Concertticketing\bin\Debug\Microsoft.Win32.Registry.xml
+E:\COpy - Copy\Concertticketing\bin\Debug\MongoDB.Bson.xml
+E:\COpy - Copy\Concertticketing\bin\Debug\MongoDB.Driver.xml
+E:\COpy - Copy\Concertticketing\bin\Debug\MongoDB.Driver.Core.xml
+E:\COpy - Copy\Concertticketing\bin\Debug\Snappier.xml
+E:\COpy - Copy\Concertticketing\bin\Debug\System.Buffers.xml
+E:\COpy - Copy\Concertticketing\bin\Debug\System.Data.SqlClient.xml
+E:\COpy - Copy\Concertticketing\bin\Debug\System.Memory.xml
+E:\COpy - Copy\Concertticketing\bin\Debug\System.Numerics.Vectors.xml
+E:\COpy - Copy\Concertticketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\COpy - Copy\Concertticketing\bin\Debug\System.Security.AccessControl.xml
+E:\COpy - Copy\Concertticketing\bin\Debug\System.Security.Principal.Windows.xml
+E:\COpy - Copy\Concertticketing\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\COpy - Copy\Concertticketing\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.csproj.AssemblyReference.cache
+E:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.exe.config
+E:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.Cashier.resources
+E:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.deleteuser.resources
+E:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.Properties.Resources.resources
+E:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.records.resources
+E:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.resibo.resources
+E:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.seatplan.resources
+E:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.Form1.resources
+E:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.Login.resources
+E:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.register.resources
+E:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.Tickets.resources
+E:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.UserData.resources
+E:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.csproj.GenerateResource.cache
+E:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.csproj.CoreCompileInputs.cache
+E:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.csproj.CopyComplete
+E:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.exe
+E:\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.pdb
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.exe.config
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.Cashier.resources
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.deleteuser.resources
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.Properties.Resources.resources
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.records.resources
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.resibo.resources
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.seatplan.resources
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.Form1.resources
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.Tickets.resources
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.csproj.GenerateResource.cache
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.exe
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.pdb
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\mongocrypt.dll
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\Concertticketing.exe.config
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\Concertticketing.exe
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\Concertticketing.pdb
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\AWSSDK.Core.dll
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\DnsClient.dll
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\Guna.UI.dll
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\Guna.UI2.dll
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\MongoDB.Bson.dll
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\MongoDB.Driver.dll
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\SharpCompress.dll
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\Snappier.dll
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\System.Buffers.dll
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\System.Memory.dll
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\ZstdSharp.dll
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\AWSSDK.Core.xml
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\DnsClient.xml
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\MongoDB.Bson.xml
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\MongoDB.Driver.xml
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\Snappier.xml
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\System.Buffers.xml
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\System.Memory.xml
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.csproj.CopyComplete
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\COpy - Copy\Concertticketing\obj\Debug\Concertticketing.inlog.resources
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\mongocrypt.dll
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\Concertticketing.exe.config
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\Concertticketing.exe
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\Concertticketing.pdb
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\AWSSDK.Core.dll
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\DnsClient.dll
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\Guna.UI.dll
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\Guna.UI2.dll
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\MongoDB.Bson.dll
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\MongoDB.Driver.dll
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\SharpCompress.dll
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\Snappier.dll
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\System.Buffers.dll
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\System.Memory.dll
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\ZstdSharp.dll
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\AWSSDK.Core.xml
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\DnsClient.xml
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\MongoDB.Bson.xml
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\MongoDB.Driver.xml
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\Snappier.xml
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\System.Buffers.xml
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\System.Memory.xml
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\obj\Debug\Concertticketing.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\obj\Debug\Concertticketing.exe.config
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\obj\Debug\Concertticketing.Cashier.resources
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\obj\Debug\Concertticketing.deleteuser.resources
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\obj\Debug\Concertticketing.inlog.resources
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\obj\Debug\Concertticketing.Properties.Resources.resources
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\obj\Debug\Concertticketing.records.resources
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\obj\Debug\Concertticketing.resibo.resources
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\obj\Debug\Concertticketing.seatplan.resources
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\obj\Debug\Concertticketing.Form1.resources
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\obj\Debug\Concertticketing.Tickets.resources
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\obj\Debug\Concertticketing.csproj.GenerateResource.cache
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\obj\Debug\Concertticketing.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\obj\Debug\Concertticketing.csproj.CopyComplete
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\obj\Debug\Concertticketing.exe
+C:\Users\Windows 10\Desktop\COpy - Copy - Copy\Concertticketing\obj\Debug\Concertticketing.pdb
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\mongocrypt.dll
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\Concertticketing.exe.config
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\Concertticketing.exe
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\Concertticketing.pdb
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\AWSSDK.Core.dll
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\DnsClient.dll
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\Guna.UI.dll
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\Guna.UI2.dll
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\MongoDB.Bson.dll
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\MongoDB.Driver.dll
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\SharpCompress.dll
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\Snappier.dll
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\System.Buffers.dll
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\System.Memory.dll
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\ZstdSharp.dll
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\AWSSDK.Core.xml
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\DnsClient.xml
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\MongoDB.Bson.xml
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\MongoDB.Driver.xml
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\Snappier.xml
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\System.Buffers.xml
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\System.Memory.xml
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\obj\Debug\Concertticketing.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\obj\Debug\Concertticketing.exe.config
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\obj\Debug\Concertticketing.Cashier.resources
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\obj\Debug\Concertticketing.confirmpurchase.resources
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\obj\Debug\Concertticketing.inlog.resources
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\obj\Debug\Concertticketing.Properties.Resources.resources
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\obj\Debug\Concertticketing.records.resources
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\obj\Debug\Concertticketing.resibo.resources
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\obj\Debug\Concertticketing.Form1.resources
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\obj\Debug\Concertticketing.Tickets.resources
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\obj\Debug\Concertticketing.csproj.GenerateResource.cache
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\obj\Debug\Concertticketing.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\obj\Debug\Concertticketing.csproj.CopyComplete
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\obj\Debug\Concertticketing.exe
+C:\Users\Windows 10\Desktop\Copy\Concertticketing\obj\Debug\Concertticketing.pdb
+D:\1st Prject\Concertticketing\bin\Debug\mongocrypt.dll
+D:\1st Prject\Concertticketing\bin\Debug\Concertticketing.exe.config
+D:\1st Prject\Concertticketing\bin\Debug\Concertticketing.exe
+D:\1st Prject\Concertticketing\bin\Debug\Concertticketing.pdb
+D:\1st Prject\Concertticketing\bin\Debug\AWSSDK.Core.dll
+D:\1st Prject\Concertticketing\bin\Debug\AWSSDK.SecurityToken.dll
+D:\1st Prject\Concertticketing\bin\Debug\DnsClient.dll
+D:\1st Prject\Concertticketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1st Prject\Concertticketing\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\1st Prject\Concertticketing\bin\Debug\Microsoft.Win32.Registry.dll
+D:\1st Prject\Concertticketing\bin\Debug\MongoDB.Bson.dll
+D:\1st Prject\Concertticketing\bin\Debug\MongoDB.Driver.Core.dll
+D:\1st Prject\Concertticketing\bin\Debug\MongoDB.Driver.dll
+D:\1st Prject\Concertticketing\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\1st Prject\Concertticketing\bin\Debug\SharpCompress.dll
+D:\1st Prject\Concertticketing\bin\Debug\Snappier.dll
+D:\1st Prject\Concertticketing\bin\Debug\System.Buffers.dll
+D:\1st Prject\Concertticketing\bin\Debug\System.Data.SqlClient.dll
+D:\1st Prject\Concertticketing\bin\Debug\System.Memory.dll
+D:\1st Prject\Concertticketing\bin\Debug\System.Numerics.Vectors.dll
+D:\1st Prject\Concertticketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\1st Prject\Concertticketing\bin\Debug\System.Security.AccessControl.dll
+D:\1st Prject\Concertticketing\bin\Debug\System.Security.Principal.Windows.dll
+D:\1st Prject\Concertticketing\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\1st Prject\Concertticketing\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\1st Prject\Concertticketing\bin\Debug\ZstdSharp.dll
+D:\1st Prject\Concertticketing\bin\Debug\AWSSDK.Core.pdb
+D:\1st Prject\Concertticketing\bin\Debug\AWSSDK.Core.xml
+D:\1st Prject\Concertticketing\bin\Debug\AWSSDK.SecurityToken.pdb
+D:\1st Prject\Concertticketing\bin\Debug\AWSSDK.SecurityToken.xml
+D:\1st Prject\Concertticketing\bin\Debug\DnsClient.xml
+D:\1st Prject\Concertticketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\1st Prject\Concertticketing\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\1st Prject\Concertticketing\bin\Debug\Microsoft.Win32.Registry.xml
+D:\1st Prject\Concertticketing\bin\Debug\MongoDB.Bson.xml
+D:\1st Prject\Concertticketing\bin\Debug\MongoDB.Driver.xml
+D:\1st Prject\Concertticketing\bin\Debug\MongoDB.Driver.Core.xml
+D:\1st Prject\Concertticketing\bin\Debug\Snappier.xml
+D:\1st Prject\Concertticketing\bin\Debug\System.Buffers.xml
+D:\1st Prject\Concertticketing\bin\Debug\System.Data.SqlClient.xml
+D:\1st Prject\Concertticketing\bin\Debug\System.Memory.xml
+D:\1st Prject\Concertticketing\bin\Debug\System.Numerics.Vectors.xml
+D:\1st Prject\Concertticketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\1st Prject\Concertticketing\bin\Debug\System.Security.AccessControl.xml
+D:\1st Prject\Concertticketing\bin\Debug\System.Security.Principal.Windows.xml
+D:\1st Prject\Concertticketing\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\1st Prject\Concertticketing\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\1st Prject\Concertticketing\obj\Debug\Concertticketing.csproj.AssemblyReference.cache
+D:\1st Prject\Concertticketing\obj\Debug\Concertticketing.csproj.SuggestedBindingRedirects.cache
+D:\1st Prject\Concertticketing\obj\Debug\Concertticketing.exe.config
+D:\1st Prject\Concertticketing\obj\Debug\Concertticketing.Cashier.resources
+D:\1st Prject\Concertticketing\obj\Debug\Concertticketing.confirmpurchase.resources
+D:\1st Prject\Concertticketing\obj\Debug\Concertticketing.inlog.resources
+D:\1st Prject\Concertticketing\obj\Debug\Concertticketing.Properties.Resources.resources
+D:\1st Prject\Concertticketing\obj\Debug\Concertticketing.records.resources
+D:\1st Prject\Concertticketing\obj\Debug\Concertticketing.resibo.resources
+D:\1st Prject\Concertticketing\obj\Debug\Concertticketing.Form1.resources
+D:\1st Prject\Concertticketing\obj\Debug\Concertticketing.Tickets.resources
+D:\1st Prject\Concertticketing\obj\Debug\Concertticketing.csproj.GenerateResource.cache
+D:\1st Prject\Concertticketing\obj\Debug\Concertticketing.csproj.CoreCompileInputs.cache
+D:\1st Prject\Concertticketing\obj\Debug\Concertt.FF3B0E36.Up2Date
+D:\1st Prject\Concertticketing\obj\Debug\Concertticketing.exe
+D:\1st Prject\Concertticketing\obj\Debug\Concertticketing.pdb
